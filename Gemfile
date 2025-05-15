@@ -48,6 +48,8 @@ group :development, :test do
   gem "rspec-rails"
 
   gem "active_model_serializers"
+
+  gem "dotenv-rails"
 end
 
 group :test do

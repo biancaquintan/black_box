@@ -7,8 +7,10 @@
 # Ignore bundler config.
 /.bundle
 
-# Ignore all environment files.
+# Ignore environment files.
 /.env*
+# Allow example
+!.env.example
 
 # Ignore all logfiles and tempfiles.
 /log/*
